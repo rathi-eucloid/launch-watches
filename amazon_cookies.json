@@ -721,21 +721,11 @@
             "sameSite": "Lax"
         },
         {
-            "name": "rxc",
-            "value": "ABu8Ga/bvhy+nMReAQM",
-            "domain": "www.amazon.com",
-            "path": "/",
-            "expires": 1787459750.400806,
-            "httpOnly": false,
-            "secure": false,
-            "sameSite": "Lax"
-        },
-        {
             "name": "session-token",
-            "value": "RgStT0iwKUO20RdQ3LTcVzFRMyAqr71xozvp477GF3Z9xWBRMydNxcz2Ek5kZxJfyAXOQ5DhaaYD7ylJ6NuIk8MohFtc7Zxhzo0VljtKPsGST7kFes5ai58x2nwqNFXRHb2Qk9J+i1bOyAZslgaehRj5ehg/FTnFPPIANzs9mBaRz9NTsTwJlHzMhPQrbPyjzDqrQDCmPIm6FzvCMN7p+2Iv+e33t7Fj",
+            "value": "YPajdCenkw4IaoGwYskU6OdYfelscfYgwDNnGf5ehJHHFkwjuw3KmHDE7GjZBuTXksNW0NmCgnGbkRSCVTbTswTONrkboGapf5YuuqjTz8aKbOJAsjJBJdmHmrtZNd+9934JJJuY88kz3dLuC4Lgac8QqIO21Z+QSNnT8TbHcHKsGe5LkWBU4ybDlXfvleog/s8E8o3GX7Q0OyLajhe3FgSbKhHfWRQm",
             "domain": ".amazon.com",
             "path": "/",
-            "expires": 1818973902.475035,
+            "expires": 1818996457.144034,
             "httpOnly": false,
             "secure": true,
             "sameSite": "Lax"
