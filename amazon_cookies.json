@@ -722,10 +722,10 @@
         },
         {
             "name": "session-token",
-            "value": "MopwRLf1Mg50C7/JvSZDtisZBDzcc/Y2dlv2oHyCT+fHq3yYBgfi2sQqDxcQzCNgg9WGE4YxudxuZed6Er2nj56Q2l5jiVyw9tyvEhGFzWkb35T3+QArK88Z77xDejGRWnAqi1/GbIHb2OhPr9HfiBn9GAdkGc4TUuxph/3xcwxQCaupPye2smGoYXcuoK0wLV+Nnqth3sKYdH2+u7Dm0cq81mIW+Irx",
+            "value": "K21p81antz7g1wWyPpHVjI390fnPA0qsIlzZKWfp9r6dOs7Tm2xpQcnz9cR8uQgggIf7xSd2bt11G0/nrT12kVFXjLfcQ59foo1ApfpNfacZkycRTLf91aAF5x4uTxOe7BisvvhSxAf1uhusED7fPUIHwnLZp2H2/CGgwPOoPAdzX2c81RXl5qrvq4YIyIpy9f7dVXM3rB8B44Xm9xqj/v7ltmiWKHtd",
             "domain": ".amazon.com",
             "path": "/",
-            "expires": 1819038573.383884,
+            "expires": 1819060364.203429,
             "httpOnly": false,
             "secure": true,
             "sameSite": "Lax"
